@@ -8,3 +8,5 @@ lib/
 _eggmonkey.cache
 eggs/
 src/
+_test_setuptools
+develop-eggs/
