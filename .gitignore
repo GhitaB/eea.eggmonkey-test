@@ -3,3 +3,7 @@ include/
 notes.txt
 pyvenv.cfg
 lib/
+.installed.cfg
+.mr.developer.cfg
+_eggmonkey.cache
+eggs/
