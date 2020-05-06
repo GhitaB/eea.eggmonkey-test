@@ -7,3 +7,4 @@ lib/
 .mr.developer.cfg
 _eggmonkey.cache
 eggs/
+src/
