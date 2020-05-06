@@ -1,2 +1,2 @@
 # eea.eggmonkey-test
-Test eea.eggmonkey to de releases for land.copernicus.content and land.copernicus.theme
+Test eea.eggmonkey to do releases for land.copernicus.content and land.copernicus.theme
